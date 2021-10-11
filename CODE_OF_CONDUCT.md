@@ -77,7 +77,7 @@ Please understand that speech and actions have consequences, and unacceptable be
 
 This procedure only serves as a general guideline for moderation & enforcement of our community conduct. Under all circumstances, the Bisontech team members may take any action we deem appropriate, including immediate removal from the community. Being banned from the Bisontech community may also prevent you from participating in our community events, including but not restricted to: local meetings, hackathons, challenges, tournaments and more.
 
-Please understand that we will not restrict your ability to contact the [Code of Conduct Bisontech Team Members](#working-group) under any circumstance. If you have any questions or concerns about our decision, please reach out to us directly. If your Slack account is under suspension, email us directly at <conduct@Bisontech.com>.
+Please understand that we will not restrict your ability to contact the [Code of Conduct Bisontech Team Members](#working-group) under any circumstance. If you have any questions or concerns about our decision, please reach out to us directly. If your Discord or Facebook account is under suspension, email us directly at <bisontech0@gmail.com>.
 
 ## 👩‍💻👨‍💻 Bisontech Team Members
 
