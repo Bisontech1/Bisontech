@@ -44,4 +44,4 @@ We were born from the desire to be able to help all those who come after us, we 
 
 ## 📚 Licence
 
-TL;DR: All content is released under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. All code is released under the [MIT License](MIT_LICENSE). For the license's full text and attributions, please see [`LICENSE`](LICENSE).
+TL;DR: All content is released under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
