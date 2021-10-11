@@ -1,4 +1,7 @@
 
+<div align="center">
+    <img src="./assets/README/Main Banner.png">
+</div>
 
 ### 🌄 Who are we?
 **Bisontech** is a student organization made from students by students. Our mission is to develop the tech abilities of every student of our community, regardless their major.
@@ -23,25 +26,22 @@ We were born from the desire to be able to help all those who come after us, we 
 **Bisontech** is made with love by so many incredible persons, who sacrifice their time to carry out our mission. Without their help, this project would definitely never have gone ahead.
 
 ### 🔗 Quick Links 
-| Action                          | Link                                 |
-| ------------------------------- | ------------------------------------ |
-| Follow us on Faceboo            | <https://www.facebook.com/bisontech1>|
-| Follow us on Linkedin           | <https://twitter.com/hackclub>       |
-| Workshops Videos        | <https://www.facebook.com/bisontech1/videos/>|
-| Join our Discord Server         | <https://discord.gg/vmw3wxvKGb>      |
-| Join to the Hackclub Slack      | <https://hackclub.com/>		    |
-| Redeem Hackclub Goodies         | <https://toolbox.hackclub.com/>	    |	
-| Join our GitHub Organization    | <https://github.com/Bisontech1>      |
-| Join the GDSC-UANL GitHub Organization | <https://github.com/Bisontech1>|
-| See our contribution guidelines | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
-| Read our code of conduct        | <https://hackclub.com/conduct/>      |
-| Use our logos, wallpapers and more| <https://hackclub.com/brand/>      |
+| Action                                 | Link                                          |
+| -------------------------------------- | --------------------------------------------- |
+| Follow us on Facebook                   | <https://www.facebook.com/bisontech1>         |
+| Follow us on Linkedin                  | <https://www.linkedin.com/company/bisontechfcfm/>                |
+| Workshops Videos                       | <https://www.facebook.com/bisontech1/videos/> |
+| Join our Discord Server                | <https://discord.gg/vmw3wxvKGb>               |
+| Join to the Hackclub Slack             | <https://hackclub.com/>                       |
+| Redeem Hackclub Goodies                | <https://toolbox.hackclub.com/>               |
+| Join our GitHub Organization           | <https://github.com/Bisontech1>               |
+| Join the GDSC-UANL GitHub Organization | <https://github.com/Bisontech1>               |
+| Read our code of conduct               | [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md)               |
 
 ### 👨‍💻👩‍💻 Active Projects You Can Contribute To
-
+![Nothing to see here](./assets/README/leslie-nielsen-nothing-to-see-here.gif)
+We're working on it, for now we don't have open projects 🤔
 
 ### 📚 Licence
-
-## License 
 
 TL;DR: All content is released under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. All code is released under the [MIT License](MIT_LICENSE). For the license's full text and attributions, please see [`LICENSE`](LICENSE).
