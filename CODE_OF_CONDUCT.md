@@ -23,7 +23,7 @@ With that said, a healthy community must allow for disagreement and debate. The 
 
 If you join in or contribute to Bisontech in any way, you are encouraged to follow the Code of Conduct while doing so.
 
-Explicit enforcement of the Code of Conduct applies everyone of out members in our community wether in online or in-person meetings, workshops and events including:
+Explicit enforcement of the Code of Conduct applies everyone of our members in our community wether in online or in-person meetings, workshops and events including:
 
 - Our  [Discord Server](https://discord.gg/vmw3wxvKGb)
 - All our Events like [Friday Tech Talks, Conferences, Workshops & More](https://www.facebook.com/bisontech1/videos)
